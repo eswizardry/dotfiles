@@ -1,2 +1,2 @@
 # dotfiles
-Bancha dot files collection.
+My dot files collection.
